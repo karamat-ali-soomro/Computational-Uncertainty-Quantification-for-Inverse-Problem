@@ -1,0 +1,14 @@
+# **Project Overview**
+This repository contains the implementation of my thesis titled "Computational Uncertainty Quantification for Inverse Problems", completed as part of my undergraduate studies at Sukkur IBA University. The thesis was submitted to fulfill the requirements for a Bachelor of Science in Mathematics.
+
+## **Purpose**
+The project explores how Bayesian methods and computational tools can solve inverse problems while quantifying uncertainty. These techniques are applied to tasks like signal deblurring, image reconstruction, and solving partial differential equations.
+
+## **Key Components**
+- **Methods**: Bayesian framework, Gaussian priors, and MCMC sampling.
+- **Tools:** CUQIpy Python package for computational uncertainty quantification.
+- **Results**: Accurate reconstructions and quantification of uncertainty using credible intervals.
+
+## **Disclaimer**
+This repository includes implementation and results but does not contain the full thesis. For further details, please refer to the submitted thesis at Sukkur IBA University.
+
